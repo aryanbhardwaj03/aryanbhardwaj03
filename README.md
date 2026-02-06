@@ -1,16 +1,121 @@
-## Hi there 👋
+<!-- PROFILE BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Aryan%20Bhardwaj&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-<!--
-**aryanbhardwaj03/aryanbhardwaj03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">🚀 Artificial Intelligence & Data Science Undergraduate</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Student;Machine+Learning+%7C+Deep+Learning;Python+%7C+TensorFlow+%7C+Flask;Problem+Solver+on+LeetCode;Always+Learning+🚀" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🎓 2nd Year Engineering Student in **Artificial Intelligence & Data Science**
+- 🧠 Interested in **Machine Learning, Deep Learning & Data Analytics**
+- 💻 Skilled in **Python, C, Java**
+- 📊 Hands-on with **Kaggle datasets & Jupyter Notebooks**
+- 🌐 Built backend projects using **Flask**
+- 🚀 Continuously improving **DSA, ML & System Design**
+
+---
+
+## 🛠️ Tech Stack
+
+### 👩‍💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,java,html,css" />
+</p>
+
+### 📊 Data Science & Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
+- NumPy  
+- Pandas  
+- Matplotlib  
+- Scikit-Learn  
+- TensorFlow  
+
+---
+
+### 🌐 Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=flask,html,css" />
+</p>
+
+- Flask (Backend)
+- REST APIs
+- HTML5 & CSS3
+
+---
+
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=github,jupyter,vscode" />
+</p>
+
+- Git & GitHub  
+- Jupyter Notebook  
+- Kaggle  
+- VS Code  
+
+---
+
+## 📌 Experience & Learning
+
+- ✅ Machine Learning models (Regression, Classification)
+- ✅ Data Cleaning, EDA & Visualization
+- ✅ Kaggle Notebooks & Competitions
+- ✅ Neural Networks using TensorFlow
+- ✅ Flask + ML Web Apps
+- ✅ OOPS & Problem Solving
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryanbhardwaj03&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=aryanbhardwaj03&theme=tokyonight" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanbhardwaj03&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/aryanbhardwaj03">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/aryan-bhardwaj28/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://leetcode.com/u/c3sGt3Slfv/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.kaggle.com/aryanbhardwaj03">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://x.com/HackSplitter">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aryanbhardwaj03&label=Profile%20Views&color=blue&style=flat" />
+</p>
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+</p>
