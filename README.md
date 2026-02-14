@@ -25,10 +25,14 @@
 ## 🛠️ Tech Stack
 
 ### 👩‍💻 Programming Languages
-![Skills](https://skillicons.dev/icons?i=python,c,java,html,css)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,java,html,css" />
+</p>
 
 ### 📊 Data Science & Machine Learning
-![ML](https://skillicons.dev/icons?i=python,tensorflow)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
 
 - NumPy  
 - Pandas  
@@ -36,15 +40,23 @@
 - Scikit-Learn  
 - TensorFlow  
 
+---
+
 ### 🌐 Web Development
-![Web](https://skillicons.dev/icons?i=flask,html,css)
+<p>
+  <img src="https://skillicons.dev/icons?i=flask,html,css" />
+</p>
 
 - Flask (Backend)
 - REST APIs
 - HTML5 & CSS3
 
+---
+
 ### 🧰 Tools & Platforms
-![Tools](https://skillicons.dev/icons?i=github,jupyter,vscode)
+<p>
+  <img src="https://skillicons.dev/icons?i=github,jupyter,vscode" />
+</p>
 
 - Git & GitHub  
 - Jupyter Notebook  
@@ -55,22 +67,25 @@
 
 ## 📌 Experience & Learning
 
-- ✅ Machine Learning Models (Regression, Classification)
+- ✅ Machine Learning models (Regression, Classification)
 - ✅ Data Cleaning, EDA & Visualization
 - ✅ Kaggle Notebooks & Competitions
 - ✅ Neural Networks using TensorFlow
-- ✅ Flask + ML Web Applications
-- ✅ OOPS & DSA Problem Solving
+- ✅ Flask + ML Web Apps
+- ✅ OOPS & Problem Solving
 
 ---
 
 ## 📈 GitHub Stats
 
-![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryanbhardwaj03&show_icons=true&theme=tokyonight&cache_seconds=86400)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryanbhardwaj03&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=aryanbhardwaj03&theme=tokyonight" height="165"/>
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=aryanbhardwaj03&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanbhardwaj03&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanbhardwaj03&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
