@@ -25,14 +25,10 @@
 ## 🛠️ Tech Stack
 
 ### 👩‍💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,java,html,css" />
-</p>
+![Skills](https://skillicons.dev/icons?i=python,c,java,html,css)
 
 ### 📊 Data Science & Machine Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
-</p>
+![ML](https://skillicons.dev/icons?i=python,tensorflow)
 
 - NumPy  
 - Pandas  
@@ -40,23 +36,15 @@
 - Scikit-Learn  
 - TensorFlow  
 
----
-
 ### 🌐 Web Development
-<p>
-  <img src="https://skillicons.dev/icons?i=flask,html,css" />
-</p>
+![Web](https://skillicons.dev/icons?i=flask,html,css)
 
 - Flask (Backend)
 - REST APIs
 - HTML5 & CSS3
 
----
-
 ### 🧰 Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=github,jupyter,vscode" />
-</p>
+![Tools](https://skillicons.dev/icons?i=github,jupyter,vscode)
 
 - Git & GitHub  
 - Jupyter Notebook  
@@ -67,25 +55,22 @@
 
 ## 📌 Experience & Learning
 
-- ✅ Machine Learning models (Regression, Classification)
+- ✅ Machine Learning Models (Regression, Classification)
 - ✅ Data Cleaning, EDA & Visualization
 - ✅ Kaggle Notebooks & Competitions
 - ✅ Neural Networks using TensorFlow
-- ✅ Flask + ML Web Apps
-- ✅ OOPS & Problem Solving
+- ✅ Flask + ML Web Applications
+- ✅ OOPS & DSA Problem Solving
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryanbhardwaj03&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=aryanbhardwaj03&theme=tokyonight" height="165"/>
-</p>
+![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryanbhardwaj03&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanbhardwaj03&layout=compact&theme=tokyonight" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=aryanbhardwaj03&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanbhardwaj03&layout=compact&theme=tokyonight)
 
 ---
 
